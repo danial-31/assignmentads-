@@ -1,0 +1,100 @@
+1. Find Minimum in an Array
+
+Function: findMin(arr, n)
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Description: Recursively finds the minimum value in an array.
+
+2. Compute Average of an Array
+
+Function: findAverage(arr, n)
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Description: Uses recursion to calculate the sum and derive the average.
+
+3. Check if a Number is Prime
+
+Function: isPrimeRecursive(n, divisor)
+
+Time Complexity: O(√n)
+
+Space Complexity: O(√n)
+
+Description: Determines if a number is prime using recursion.
+
+4. Compute Factorial
+
+Function: factorial(n)
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Description: Recursively calculates the factorial of a given number.
+
+5. Compute Fibonacci Number
+
+Function: fibonacci(n)
+
+Time Complexity: O(2^n)
+
+Space Complexity: O(n)
+
+Description: Computes the nth Fibonacci number using recursion.
+
+6. Fast Exponentiation (a^n)
+
+Function: fastPower(a, n)
+
+Time Complexity: O(log n)
+
+Space Complexity: O(log n)
+
+Description: Uses exponentiation by squaring to compute power.
+
+7. Print Numbers in Reverse Order
+
+Function: printReverse(n, scanner)
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Description: Reads and prints numbers in reverse order using recursion.
+
+8. Check if String Contains Only Digits
+
+Function: isAllDigits(s, index)
+
+Time Complexity: O(n)
+
+Space Complexity: O(n)
+
+Description: Recursively verifies if a string contains only digits.
+
+9. Compute Binomial Coefficient
+
+Function: binomialCoefficient(n, k)
+
+Time Complexity: O(2^n)
+
+Space Complexity: O(n)
+
+Description: Recursively computes the binomial coefficient C(n, k).
+
+10. Compute Greatest Common Divisor (GCD)
+
+Function: gcd(a, b)
+
+Time Complexity: O(log min(a, b))
+
+Space Complexity: O(log min(a, b))
+
+Description: Uses the Euclidean algorithm to find the GCD recursively.
+
